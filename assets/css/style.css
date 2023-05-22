@@ -195,7 +195,7 @@ text-align: right;
 }
 
 #circle-cover-bg {
-    background: url(../images/ethos-center-image.jpg); no-repeat center center;
+    background: url(../images/ethos-center-image.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%; 
 
@@ -211,3 +211,21 @@ text-align: right;
     width: 100%;
     overflow: hidden; 
 }
+
+#times div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+
+} 
+
+#times h2 {
+    color: #fafafa;
+}
+
